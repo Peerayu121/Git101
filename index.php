@@ -14,7 +14,7 @@
 
 <body>
   <section class="row">
-    <aside class="col-3 col-xl-2 bg-pr full-height-overflow">
+    <aside class="col-3 col-xl-2 bg-pr full-height-overflow" style="border: 10px dashed black;">
       <ul>
         <a href="./">
           <li class="hov-primary">Dashboard</li>
@@ -52,7 +52,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-3">
+          <div class="col-3" style="border: 10px dashed black";>
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title text-body-secondary">Total Balance</h5>
